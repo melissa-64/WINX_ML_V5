@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": "mw2",
+      "name": "MW2",
+      "brandColors": {
+        "primary": "#7fca2a"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "isDefault": true
+    },
+    {
+      "id": "mw3",
+      "name": "MW3",
+      "brandColors": {
+        "primary": "#d80000"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.png",
+      "isDefault": true
+    },
+    {
+      "id": "bo6",
+      "name": "Black Ops 6",
+      "brandColors": {
+        "primary": "#f96800"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6.png",
+      "isDefault": true
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "brandColors": {
+        "primary": "#13cae3"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/fortnite.png",
+      "isDefault": true
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "brandColors": {
+        "primary": "#ff4655"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/valorant.png",
+      "isDefault": true
+    },
+    {
+      "id": "fivem",
+      "name": "FiveM",
+      "brandColors": {
+        "primary": "#ff7100"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
+      "isDefault": true
+    },
+    {
+      "id": "cs2",
+      "name": "CS2",
+      "brandColors": {
+        "primary": "#fcac19"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/cs2.png",
+      "isDefault": true
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "brandColors": {
+        "primary": "#f0514b"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/rust.png",
+      "isDefault": true
+    },
+    {
+      "id": "apex",
+      "name": "Apex Legends",
+      "brandColors": {
+        "primary": "#ed1b24"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
+      "isDefault": true
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "brandColors": {
+        "primary": "#808080"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+  ]
+}
