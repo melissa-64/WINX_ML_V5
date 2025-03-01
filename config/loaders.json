@@ -1,3 +1,11 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "MW19 Chair + Blocker",
+            "name": "MW19 Chair + Blocker",
+            "categoryId": "mw19",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/MW19_Chair.exe",
+            "status": "online"
+        }
+    ]
 }
