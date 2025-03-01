@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Opal + Blocker",
+            "name": "Opal + Blocker",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Opal.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/opalimage.png"
+        }
+    ]
 }
