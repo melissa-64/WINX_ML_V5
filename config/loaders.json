@@ -24,6 +24,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Hex__Blocker.exe",
             "status": "online",
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee.png"
+        },
+        {
+            "id": "FiveM External",
+            "name": "FiveM External",
+            "categoryId": "fivem",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Fivem-External1.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee2.png"
         }
     ]
 }
