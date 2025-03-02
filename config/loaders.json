@@ -15,6 +15,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Opal.exe",
             "status": "online",
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Opal.exe"
+        },
+        {
+            "id": "Zenith + Blocker",
+            "name": "Zenith + Blocker",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/zenith__blocker.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee11.png"
         }
     ]
 }
