@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "LDV2 + Blocker",
-            "name": "LDV2 + Blocker",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/LDV2.exe",
-            "status": "online",
-            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/ldv2.jpg"
-        },
-        {
             "id": "Zenith + Blocker",
             "name": "Zenith + Blocker",
             "categoryId": "bo6",
