@@ -48,6 +48,14 @@
             "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/internal.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/235720557566492683/internal1.png"
+        },
+        {
+            "id": "External",
+            "name": "External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/extern.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/235720557566492683/menu.png"
         }
     ]
 }
