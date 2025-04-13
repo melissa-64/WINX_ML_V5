@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Hex + Blocker",
-            "name": "Hex + Blocker",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/Hex__Blocker.exe",
-            "status": "online",
-            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee.png"
-        },
-        {
             "id": "FiveM External",
             "name": "FiveM External",
             "categoryId": "fivem",
