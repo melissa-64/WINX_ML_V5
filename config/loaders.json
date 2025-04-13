@@ -40,6 +40,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/t10_zl_mnbvcxz.exe",
             "status": "online",
             "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee11.png"
+        },
+        {
+            "id": "Internal V1",
+            "name": "Internal V1",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/internal.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/235720557566492683/internal1.png"
         }
     ]
 }
