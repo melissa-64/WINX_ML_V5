@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Zenith + Blocker",
-            "name": "Zenith + Blocker",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/t10_zl_mnbvcxz.exe",
-            "status": "online",
-            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/235720557566492683/heximagee11.png"
-        },
-        {
             "id": "Internal V1",
             "name": "Internal V1",
             "categoryId": "bo6",
