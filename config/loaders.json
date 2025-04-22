@@ -8,6 +8,14 @@
             "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/internalv2.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/235720557566492683/ezgif.com-video-to-gif-converter.gif"
+        },
+        {
+            "id": "External",
+            "name": "External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/Loader_6.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/235720557566492683/menu.png"
         }
     ]
 }
