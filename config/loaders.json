@@ -10,14 +10,6 @@
             "imageUrl": "https://cloud.anewvision.fr/235720557566492683/ezgif.com-video-to-gif-converter.gif"
         },
         {
-            "id": "Internal V1",
-            "name": "Internal V1",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/internal.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/235720557566492683/internal1.png"
-        },
-        {
             "id": "External",
             "name": "External",
             "categoryId": "bo6",
