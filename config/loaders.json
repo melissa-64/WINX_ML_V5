@@ -16,6 +16,14 @@
             "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/Loader_6.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/235720557566492683/menu.png"
+        },
+        {
+            "id": "Winx - Fortnite",
+            "name": "Winx - Fortnite",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://cloud.anewvision.fr/235720557566492683/Discord.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/235720557566492683/fbn.jpg"
         }
     ]
 }
